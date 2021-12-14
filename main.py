@@ -32,7 +32,6 @@ root.set_theme("radiance")  # Sets an available theme
 
 # Fonts - Arial (corresponds to Helvetica), Courier New (Courier), Comic Sans MS, Fixedsys,
 # MS Sans Serif, MS Serif, Symbol, System, Times New Roman (Times), and Verdana
-#
 # Styles - normal, bold, roman, italic, underline, and overstrike.
 
 statusbar = ttk.Label(root, text="Welcome to Music", relief=SUNKEN, anchor=W, font='Times 10 italic')
