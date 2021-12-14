@@ -37,6 +37,10 @@ In this project we have used many predefined libraries for building GUI app.
  - [Download Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
  - [How to download Python and Pycharm](https://www.youtube.com/watch?v=mbryl4MZJms&ab_channel=Telusko)
 
+## Music Player Icon
+- [Flaticon](https://www.flaticon.com/)
+- [ICO Converter](https://www.icoconverter.com/) 
+- [ttkthemes (Advance Themes)]( https://ttkthemes.readthedocs.io/en/latest/)
 
 ## Installation
 
