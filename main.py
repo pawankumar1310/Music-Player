@@ -1,14 +1,28 @@
 import os  # for finding path and find extension of song.
 
-import threading  # for playing multiple things in same time like in one time we can play, stop, pause rewind and
+import threading  # To calculating the current time of the music.We will be implementing threading in python
+# to make sure the main GUI keeps running while we do time calculation in the background thread of the UI.
+# for playing multiple things in same time like in one time we can play, stop, pause rewind and
 # also increase and decrease the song.That's why we use threading.
 
 import time  # For finding time format.
 from tkinter import *  # contains root window.
 from tkinter import ttk  # use styling fonts and button and label.
-from pygame import mixer  # For volume but mixer.Sound() is not handle mp3 file b/c mp3 file is very big.
+# To change the background color of window and buttons using ttk widgets.
+# Basically how to make our Python GUI look amazing we use ttk.
+
+from pygame import mixer  # To pause and unpause the audio using Pygame's mixer class.
+#  To rewind/restart music using rewind of Pygame mixer.
+# To mute the music using Pygame's mixer library.
+# Fix the logic of the pause and the unpause functionality using Pygame.
+# To calculate the total duration of the WAV  music/sounds files using Pygame's sound object.
+# For volume but mixer.Sound() is not handle mp3 file b/c mp3 file is very big.
+
 import tkinter.messagebox
-from mutagen.mp3 import MP3  # if music file is so big then pygame is not supported.That's why we use mutagen.
+
+from mutagen.mp3 import MP3  # To calculate total duration of the MP3 music/sounds files using Python's mutagen package.
+# if music file is so big then pygame is not supported.That's why we use mutagen.
+
 from tkinter import filedialog  # For selecting song from our directory.
 from ttkthemes import themed_tk as tk  # Adding advance stylish themes like ThemedTk(),radiance and so on.
 

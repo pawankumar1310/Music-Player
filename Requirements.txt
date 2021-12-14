@@ -1,0 +1,8 @@
+#Python install
+Python 3.8.1
+
+#package
+mutagen==1.45.1
+Pillow==8.4.0   
+pygame==2.1.0   
+ttkthemes==3.2.2
