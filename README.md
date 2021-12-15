@@ -33,9 +33,13 @@ In this project we have used many predefined libraries for building GUI app.
 
 ## Acknowledgements/Prerequisites
 
- - [Download Python](https://www.python.org/downloads/)
- - [Download Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
- - [How to download Python and Pycharm](https://www.youtube.com/watch?v=mbryl4MZJms&ab_channel=Telusko)
+- First install Python extension (in Visual Studio code (VS Code))
+- Install Python version latest
+- python.exe path must be set in 'path' environment variable
+- For more details link are given below:-
+  - [Download Python](https://www.python.org/downloads/)
+  - [Download Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
+  - [How to download Python and Pycharm](https://www.youtube.com/watch?v=mbryl4MZJms&ab_channel=Telusko)
 
 ## Music Player Icon
 - [Flaticon](https://www.flaticon.com/)
