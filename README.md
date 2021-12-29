@@ -1,7 +1,7 @@
 # Music Player App
 
 This is a simple **Music Player App**  for listening audio songs written in Python with Tkinter and other useful Module like **pygame, mutagen** etc.
-I built this project just for practise and fun purpose. 
+I built this project just for practice and fun purpose. 
 
 # About Project
 This application is totally based on GUI (Graphical User Interface) through which an user can interact with the application.
